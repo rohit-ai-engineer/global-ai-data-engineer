@@ -25,7 +25,7 @@ My 12-month mentor-guided project to go from beginner (SQL basics, zero Python/c
 | 2026-02-14 | Repo setup + first ingestion script            | Done   | `01_ingest_and_chunk.py`, README.md            | First push successful          |
 | 2026-02-14 | Improved chunking (sentence-aware + overlap)   | Done   | `02_better_chunking.py`                        | Overlap works; size controlled |
 | 2026-02-14 | Added link to vision repo + progress update    | Done   | README.md                                      | Connecting tactical & strategic|
-
+| 2026-02-14 | First embeddings generated (384-dim)           | Done   | `03_generate_embeddings.py`,`my_knowledge_embeddings.npy` | Loop bug fixed; CPU mode works; vectors previewed |
 
 (We will fill this table after every session.)
 
