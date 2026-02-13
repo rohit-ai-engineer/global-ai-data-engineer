@@ -1,3 +1,13 @@
+## Related Vision Repo
+
+This repo is my **hands-on tactical build path** — daily code, experiments, and incremental progress toward reliable AI data systems.
+
+For the **long-term architectural vision** (trust boundaries, explicit evaluation layers, observability-first design, domain-agnostic principles), see:
+
+**Vision📐**
+👉 [ai-systems-learning-lab](https://github.com/rjrohitj/ai-systems-learning-lab)  
+   (My original manifesto repo — where high-level ideas and phase planning live) 
+
 # Global AI Data Engineer Journey
 
 My 12-month mentor-guided project to go from beginner (SQL basics, zero Python/cloud) to building production AI data systems — the foundation that makes LLMs reliable at scale.
@@ -10,11 +20,12 @@ My 12-month mentor-guided project to go from beginner (SQL basics, zero Python/c
 
 ## Progress Tracker
 
-| Date       | Milestone                          | Status     | Key Learnings / Files                  | Notes |
-|------------|------------------------------------|------------|----------------------------------------|-------|
-| 2026-02-XX | Repo setup + first ingestion script| In Progress| `01_ingest_and_chunk.py`              | Starting today |
-|            |                                    |            |                                        |       |
-|            |                                    |            |                                        |       |
+| Date       | Milestone                                      | Status | Key Learnings / Files                          | Notes                          |
+|------------|------------------------------------------------|--------|------------------------------------------------|--------------------------------|
+| 2026-02-14 | Repo setup + first ingestion script            | Done   | `01_ingest_and_chunk.py`, README.md            | First push successful          |
+| 2026-02-14 | Improved chunking (sentence-aware + overlap)   | Done   | `02_better_chunking.py`                        | Overlap works; size controlled |
+| 2026-02-14 | Added link to vision repo + progress update    | Done   | README.md                                      | Connecting tactical & strategic|
+
 
 (We will fill this table after every session.)
 
